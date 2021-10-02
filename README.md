@@ -1,3 +1,8 @@
+
+<img src="https://i.gifer.com/GPkR.gif" width="140" height="140" />
+
+
+
 <h1 align="center">Hi 👋, I'm AADITYA JAISWAL</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
